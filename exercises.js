@@ -5,7 +5,7 @@ const postgresConfig = {
   host: 'localhost',
   port: 5432,
   database: 'pg-promise-exercises',
-  user: 'Mr.Ware', // replace this with your username
+  user: ', // replace this with your username
   password: '' //  replace this if you have set a password for your username (this is unlikely)
 };
 
